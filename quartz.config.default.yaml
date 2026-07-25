@@ -256,7 +256,7 @@ plugins:
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: blue-topaz
+      theme: default
       variation: null
 layout:
   groups:
